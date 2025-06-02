@@ -31,6 +31,7 @@ To analyze telecom customer data and identify patterns and factors contributing 
 ❗️Business Problem
 
 Telecom companies face high customer attrition, directly impacting revenue. Without clear insights into why customers churn, it's difficult to take preventive action. This project addresses the need to:
+
 1-Detect key churn indicators.
 2-Segment customers based on usage and contract type.
 3-Support data-driven retention strategies.
@@ -38,6 +39,7 @@ Telecom companies face high customer attrition, directly impacting revenue. With
 💡 Business Impact
 
 Improved Customer Retention: By identifying key churn drivers (e.g., short tenure, monthly contracts, lack of add-on services), the business can take targeted actions to reduce churn.
+
 1- Informed Decision-Making: Visual insights allow management to prioritize improvements in service areas like tech support and payment experience.
 2- Cost Savings: Helps reduce customer acquisition costs by focusing on retaining existing customers.
 3- Enhanced Service Personalization: Enables customized offers for at-risk customers based on behavior and service history.
